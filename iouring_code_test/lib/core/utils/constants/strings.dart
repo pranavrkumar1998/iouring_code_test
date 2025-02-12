@@ -9,3 +9,4 @@ const senSex = "SENSEX";
 const editWatchList = "Edit Watchlist";
 const somethingWentWrong = "Something went wrong";
 const search = "Search";
+const editWatchListEnabled = "Edit Watchlist Enabled";
