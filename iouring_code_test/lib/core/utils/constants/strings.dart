@@ -1,0 +1,11 @@
+const watchList = "Watchlist";
+const orders = "Orders";
+const portfolio = "Portfolio";
+const movers = "Movers";
+const more = "More";
+const nifty = "NIFTY";
+const bankNifty = "BANKNIFTY";
+const senSex = "SENSEX";
+const editWatchList = "Edit Watchlist";
+const somethingWentWrong = "Something went wrong";
+const search = "Search";
